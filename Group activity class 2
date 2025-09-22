@@ -11,6 +11,7 @@ Error traceback;
 6. How is the error shown or handled in each language?
 Error traceback; the line of error is referred to
 7. Are true/false written the same?
+yes; it's t=true and f=false
 8. What symbols or keywords are used for logical operations?
 9. How is conditional logic structured?
 10. Are keywords or formatting different?
