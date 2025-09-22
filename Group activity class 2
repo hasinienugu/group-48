@@ -9,6 +9,7 @@ Types are required
 5. What happens when an error occurs?
 Error traceback; 
 6. How is the error shown or handled in each language?
+Error traceback; the line of error is referred to
 7. Are true/false written the same?
 8. What symbols or keywords are used for logical operations?
 9. How is conditional logic structured?
